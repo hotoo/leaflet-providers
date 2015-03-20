@@ -1,5 +1,8 @@
 Leaflet-providers
 =================
+
+----
+
 An extension to [Leaflet](http://leafletjs.com/) that contains configurations for various free tile providers.
 
 # Usage
